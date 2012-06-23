@@ -2,7 +2,7 @@
 Contributors: plocha
 Tags: html, xhtml, character, entity, reference, convert, valid, invalid, syntax
 Requires at least: 3.3.2
-Tested up to: 3.3.2
+Tested up to: 3.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ Some WordPress functions outputs character entity references. The most of these 
 
 Convertentity converts all entity references into their corresponding characters with the exception of the references for the following characters: '<>&"
 
-Theses references are the only ones which are allowed in XHTML.
+These references are the only ones which are allowed in XHTML.
 
 == Installation ==
 
